@@ -1,11 +1,15 @@
 <h1 align="center">Hola👋, Mi Nombre es Jose Enrique</h1>
 <h3 align="center">Soy un apasionado estudiante de Analítica y Ciencia de los Datos</h3>
 
-- 🔭 Estoy trabajando en pequeños proyectos personales [Project Gym](https://github.com/JojoxSpicy/Project-Gym)
+- 🔭 Estoy trabajando en pequeños proyectos personales 
+       [Project Gym](https://github.com/JojoxSpicy/Project-Gym)
 
 - 🌱 Actualmente estoy estudiando en: **Instituto Tecnológico de las Américas**
 
 - 📫 Como contactarme **Kike.Jose199@gmail.com**
+
+- 📄 Certificados:
+       [Certificado de SQL](https://community.open-bootcamp.com/user/jojoxspicy/certificaciones/d638e5a1-7134-4581-8fe0-c49a4855ef57)
 
 - ⚡ Dato curioso: **Soy obsesivo a la hora de aprender algo que me gusta**
 
