@@ -1,7 +1,7 @@
 <h1 align="center">Hola👋, Mi Nombre es Jose Enrique</h1>
 <h3 align="center">Soy un apasionado estudiante de Analítica y Ciencia de los Datos</h3>
 
-- 🔭 Estoy trabajando en pequeños proyectos personales  [Project gym](https://github.com/JojoxSpicy/Project-Gym) / [Restaurant]()
+- 🔭 Estoy trabajando en pequeños proyectos personales  [Project gym](https://github.com/JojoxSpicy/Project-Gym) / [Restaurant](https://github.com/JojoxSpicy/Restaurant)
        
 
 - 🌱 Actualmente estoy estudiando en: **Instituto Tecnológico de las Américas**
