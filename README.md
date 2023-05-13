@@ -13,6 +13,8 @@
 
 - ⚡ Dato curioso: **Soy obsesivo a la hora de aprender algo que me gusta**
 
+- 🧠 Curriculum: [CV](https://www.canva.com/design/DAFi00kPpI4/eclIaazIDOpwI9ihxe_0qw/view?utm_content=DAFi00kPpI4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/jojoxspicy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jojoxspicy" height="30" width="40" /></a>
