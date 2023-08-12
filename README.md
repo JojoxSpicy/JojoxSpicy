@@ -13,7 +13,7 @@
 
 - ⚡ Dato curioso: **Soy obsesivo a la hora de aprender algo que me gusta**
 
-- 🧠 Curriculum: [CV]([https://www.canva.com/design/DAFi00kPpI4/eclIaazIDOpwI9ihxe_0qw/view?utm_content=DAFi00kPpI4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAFi00kPpI4/PeOAAORi0u4Kgs8VPK6Nog/edit?utm_content=DAFi00kPpI4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 🧠 Curriculum: [CV](https://www.canva.com/design/DAFi00kPpI4/eclIaazIDOpwI9ihxe_0qw/view?utm_content=DAFi00kPpI4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 - ✈ [Linkedin](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BEAN4kDAcS66IDsX2B09mvQ%3D%3D)
 
