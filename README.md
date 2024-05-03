@@ -8,9 +8,6 @@
 
 - 📫 Como contactarme **Kike.Jose199@gmail.com**
 
-- 📄 Certificados:
-       [Certificado de SQL](https://community.open-bootcamp.com/user/jojoxspicy/certificaciones/d638e5a1-7134-4581-8fe0-c49a4855ef57)
-
 - ⚡ Dato curioso: **Soy obsesivo a la hora de aprender algo que me gusta**
 
 - 🧠 Curriculum: [CV](https://www.canva.com/design/DAFi00kPpI4/eclIaazIDOpwI9ihxe_0qw/view?utm_content=DAFi00kPpI4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
